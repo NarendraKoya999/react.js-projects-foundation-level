@@ -1,5 +1,22 @@
 # React.js Projects Core - Foundation Level⚛
 
+These projects cover various foundational concepts in React.js, providing opportunities for learning and practicing key aspects of building React applications. Each project focuses on different topics such as components, state management, lifecycle methods, API integration, and more.
+
+Topics Covered:
+- Components
+- State Management
+- Lifecycle Methods
+- API Integration
+- Conditional Rendering
+- Event Handling
+- Forms Handling
+- Lists and Keys
+- Local Storage
+- CSS Styling
+- Geolocation
+- WebSocket Integration
+- Charts Integration
+
 ### 1. To-Do List Application
 
 - **Topics Covered**: Components, State Management, Props, Conditional Rendering, Event Handling, Forms Handling
